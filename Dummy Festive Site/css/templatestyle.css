@@ -1,0 +1,39 @@
+body{
+}
+
+#title{
+  height: 600px;
+  background-image: url("../images/blog-banners_diwali.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+
+}
+.container-fluid{
+  padding:3% 8% 7%;
+}
+
+h1{
+
+  font-family:"Montserrat";
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/*Navigation-Bar*/
+.navbar{
+padding:0 0;
+}
+.navbar-brand{
+font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: "Bold";
+}
+.nav-item{
+padding: 0 15px;
+}
+.nav-link{
+font-size: 1.2rem;
+font-family: "Montserrat-light";
+}

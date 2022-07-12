@@ -1,0 +1,126 @@
+body{
+  background-color:White;
+}
+#title{
+  background-color: #2D2424;
+  color:#fff;
+}
+
+.container-fluid{
+  padding:3% 8% 7%;
+}
+.row{
+  padding: 5% 0;
+}
+h1{
+
+  font-family:"Montserrat";
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/*Navigation-Bar*/
+.navbar{
+padding:0 0;
+}
+.navbar-brand{
+font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: "Bold";
+}
+.nav-item{
+padding: 0 15px;
+}
+.nav-link{
+font-size: 1.2rem;
+font-family: "Montserrat-light";
+}
+
+/* Packages-Section */
+#packages{
+  padding: 100px;
+  text-align: center;
+}
+.packages-column{
+  padding: 3% 2%;
+}
+.card-body{
+  height: 300px;
+  color: white;
+  background-color: #2D2424;
+}
+/*Cutimization-Section*/
+#customization{
+  background-color: #2D2424;
+  color:#fff;
+  padding: 100px;
+}
+.form-group{
+  padding: 10px;
+  line-height: 1.5;
+}
+
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #2D2424;
+  color: white;
+}
+.social-icon{
+  margin:20px;
+}
+
+
+/*about*/
+.blank-img{
+  margin-left: 50px;
+  height: 400px;
+  width: 500px;
+  background-color: red;
+
+}
+
+#packages-info{
+  padding:3% 8% 7%;
+
+}
+.packages-info{
+  margin: 0 20px;
+}
+.package-img{
+  height:300px;
+  width: 500px;
+  background-color: red;
+}
+
+.info{
+padding:8% 0% 8%;
+}
+
+/*Packages*/
+#pricing{
+
+}
+.pricing-column{
+  padding:3% 8% 7%;
+}
+
+.price-info{
+  
+
+}
+.price-but{
+  padding-left: 240px;
+  padding-right: 50px;
+  margin-top: 140px;
+
+}
+
+.btn{
+  border-radius: 25px;
+  background:red;
+  width: 200px;
+
+
+}
